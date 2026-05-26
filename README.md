@@ -6,12 +6,6 @@ Slokee provides a comprehensive suite of online tools, informative blog posts on
 
 ---
 
-## Extensive Documentation
-
-- [Full Service Hub](https://slokee.com/llms-full.txt): Detailed descriptions, technology stacks, and granular service points for all Slokee offerings.
-
----
-
 # Main Pages
 
 - [Homepage](https://slokee.com/): Overview of Slokee's services and mission to drive digital transformation.
